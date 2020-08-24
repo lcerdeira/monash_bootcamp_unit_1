@@ -1,78 +1,69 @@
-Monash-responsive-portfolio
-Responsive Portfolio using Bootstrap CSS Framework
+# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/)
 
-Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
-Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application.
+[Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
 
-Directions
-First, you will use the Bootstrap CSS Framework to create a mobile responsive portfolio. How do you deliver this? Here are some guidelines:
+## Preview
 
-Create the following files files: index.html, portfolio.html and contact.html.
+[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/screenshots/themes/stylish-portfolio.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
 
-Using Bootstrap, develop your portfolio site with the following items:
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)**
 
-A navbar
+## Status
 
-A responsive layout
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-stylish-portfolio/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
+[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-stylish-portfolio)
+[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio)
+[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-stylish-portfolio?type=dev)
 
-Responsive images
+## Download and Installation
 
-The Bootstrap portfolio should minimize the use of media queries.
+To begin using this template, choose one of the following options to get started:
 
-Screenshots are provided as a reference in the Assets/Images folder. Your app does not need to be exactly like the images. Use Bootstrap to create a similar, responsive layout.
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/stylish-portfolio/)
+* Install via npm: `npm i startbootstrap-stylish-portfolio`
+* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
 
-Hints
-Use Bootstrap's grid system (containers, rows, and columns).
+## Usage
 
-On an xs screen, content should take up the entire screen. On sm and larger screens, you should have some margins on the left and right sides of the screen. Check out various sites on your mobile device vs. your computer to see examples of these differences.
+### Basic Usage
 
-Use an HTML validation service to ensure that each page has valid HTML.
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-Minimum Requirements
-Functional, deployed application
+### Advanced Usage
 
-GitHub repository with README describing the project
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-Navbar must be consistent on each page.
+#### Gulp Tasks
 
-Navbar on each page must contain links to Home/About, Contact, and Portfolio pages.
+* `gulp` the default task that builds everything
+* `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
+* `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+* `gulp js` minifies the themes JS file
+* `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-All links must work.
+You must have npm installed globally in order to use this build environment.
 
-Must use semantic html.
+## Bugs and Issues
 
-Each page must have valid and correct HTML. (use a validation service)
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/themes/stylish-portfolio/).
 
-Must contain your personalized information. (bio, name, images, links to social media, etc.)
+## About
 
-Must properly utilize Bootstrap components and grid system.
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-Bonus
-Using Bootstrap, make a sticky footer and use sub-rows and sub-columns on your portfolio site (Hint: Check out the Bootstrap documentation).
-Commit Early and Often
-One of the most important skills to master as a web developer is version control. Building the habit of committing via Git is important for two reasons:
+* <https://startbootstrap.com>
+* <https://twitter.com/SBootstrap>
 
-Your commit history is a signal to employers that you are actively working on projects and learning new skills.
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
 
-Your commit history allows you to revert your codebase in the event that you need to return to a previous state.
+* <http://davidmiller.io>
+* <https://twitter.com/davidmillerskt>
+* <https://github.com/davidtmiller>
 
-Follow these guidelines for committing:
+Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Make single-purpose commits for related changes to ensure a clean, manageable history. If you are fixing two issues, make two commits.
+## Copyright and License
 
-Write descriptive, meaningful commit messages so that you and anyone else looking at your repository can easily understand its history.
-
-Don't commit half-done work, for the sake of your collaborators (and your future self!).
-
-Test your application before you commit to ensure functionality at every step in the development process.
-
-We would like you to have well over 200 commits by graduation, so commit early and often!
-
-Submission on BCS
-You are required to submit the following:
-
-The URLs of the deployed applications
-
-The URLs of the GitHub repositories
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
