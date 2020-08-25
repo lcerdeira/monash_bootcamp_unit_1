@@ -21,6 +21,6 @@ Personal portfolio
 
 ## Contact
 
-* <http://louisecerdeira.io>
+* <https://lcerdeira.github.io/portfolio/>
 * <https://twitter.com/lcerdeira>
 * <https://github.com/lcerdeira>
