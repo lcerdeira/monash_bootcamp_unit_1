@@ -1,6 +1,6 @@
 {
-    "title": "Stylish Portfolio",
-    "name": "startbootstrap-stylish-portfolio",
+    "title": "Louise Portfolio",
+    "name": "louise-stylish-portfolio",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -14,19 +14,19 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/themes/stylish-portfolio",
+    "homepage": "https://lcerdeira.github.io/portfolio/",
     "bugs": {
-        "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues",
-        "email": "feedback@startbootstrap.com"
+        "url": "https://lcerdeira.github.io/portfolio/",
+        "email": "lcerdeira@gmail.com"
     },
     "license": "MIT",
     "author": "Start Bootstrap",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Louise Cerdeira (https://lcerdeira.github.io/portfolio/)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git"
+        "url": "https://github.com/lcerdeira/portfolio.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.13.1",
