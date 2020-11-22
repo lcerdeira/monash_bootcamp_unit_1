@@ -8,19 +8,7 @@
 ## Table of Contents
 
   * [Description](#Description)
-  * [License](#License)
-  * [Contact](#Contact)
 
 ## Description
 
-Personal portfolio
-
-## Status
-
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
-
-## Contact
-
-* <https://lcerdeira.github.io/portfolio/>
-* <https://twitter.com/lcerdeira>
-* <https://github.com/lcerdeira>
+3P == Professional  and Personal Portfolio
